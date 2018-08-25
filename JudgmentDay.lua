@@ -2,10 +2,6 @@
 
 -- Template --
 
--- Constants
-local PLAYER = 0
-local OPPONENT = 1
-
 -- Basics
 local ownLife = 100
 local oppLife = 10000
@@ -114,6 +110,10 @@ local ownHand = {
 }
 
 -- End template --
+
+-- Constants
+local PLAYER = 0
+local OPPONENT = 1
 
 -- Logic --
 
