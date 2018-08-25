@@ -69,7 +69,7 @@ for i, f in pairs(fields) do
         local id = c[1]
         local position = c[2]
         local zonenumber = c[3]
-        Debug.AddCard(id, owner, owner, place, zonenumber, position)
+        Debug.AddCard(id, owner, owner, place, zonenumber, position, true)
     end
 end
 
@@ -99,6 +99,8 @@ for i, z in pairs(zones) do
 end
 
 -- Special Effects
+
+-- End Special Effects
 
 Debug.ReloadFieldEnd()
 
