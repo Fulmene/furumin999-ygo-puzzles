@@ -3,8 +3,8 @@
 -- Template --
 
 -- Basics
-local ownLife = 13400
-local oppLife = 11600
+local ownLife = 100
+local oppLife = 11400
 local oppName = "Adelaide"
 local duelMode = DUEL_ATTACK_FIRST_TURN + DUEL_SIMPLE_AI
 local masterRule = 4
