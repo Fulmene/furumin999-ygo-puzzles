@@ -64,9 +64,9 @@ local ownExtraDeck = {
     32448765, -- Holly Angel
 }
 local ownMainDeck = {
-    63492244, -- Lightarena
-    91505214, -- Narkissus
     99890852, -- Bouquet
+    91505214, -- Narkissus
+    63492244, -- Lightarena
     98169343, -- Carobein
 }
 local ownHand = {
