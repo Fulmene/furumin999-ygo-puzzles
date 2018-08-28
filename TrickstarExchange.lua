@@ -60,7 +60,6 @@ local ownExtraDeck = {
     51011872, -- Bloody Mary
     77307161, -- Bloom
     86750474, -- Foxywitch
-    94626871, -- Sweet Devil
     32448765, -- Holly Angel
 }
 local ownMainDeck = {
