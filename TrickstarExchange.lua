@@ -25,7 +25,7 @@ local oppMonster = {
     { 39064822, POS_FACEUP_ATTACK , 3 }, -- Troymare Goblin
 }
 local ownMonster = {
-    { 86825114, POS_FACEUP_DEFENSE, 1 }, -- Nightshade
+    { 59604521, POS_FACEUP_DEFENSE, 1 }, -- Shakunage
     { 61283655, POS_FACEUP_ATTACK , 2 }, -- Candina
     -- Iblee
 }
@@ -72,7 +72,7 @@ local ownHand = {
     35199656, -- Manjushika
     35199656, -- Manjushika
     05556668, -- Exchange
-    59604521, -- Shakunage
+    86825114, -- Nightshade
     98700941, -- Lilybell
     22219822, -- Mandrake
 }
