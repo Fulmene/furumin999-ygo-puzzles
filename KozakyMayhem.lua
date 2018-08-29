@@ -4,7 +4,7 @@
 
 -- Basics
 local ownLife = 100
-local oppLife = 7500
+local oppLife = 10000
 local oppName = "Adelaide"
 local duelMode = DUEL_ATTACK_FIRST_TURN + DUEL_SIMPLE_AI
 local masterRule = 4
