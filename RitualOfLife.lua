@@ -7,7 +7,7 @@ local ownLife = 8000
 local oppLife = 8000
 local oppName = "Adelaide"
 local duelMode = DUEL_ATTACK_FIRST_TURN + DUEL_SIMPLE_AI
-local masterRule = 2
+local masterRule = 4
 local hint = { "Win this turn!" }
 
 -- Field
@@ -61,7 +61,7 @@ local ownMainDeck = {
     66729231, -- Zealgigas
     73551138, -- Emilia
     43422537, -- Double Summon
-    17241370, -- Natalia
+    11877465, -- Mind Augus
 }
 local ownHand = {
     66399675, -- Chain
